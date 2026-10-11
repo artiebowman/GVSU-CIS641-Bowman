@@ -3,8 +3,8 @@
 **Course page:** https://artiebowman.github.io/GVSU-CIS641-Bowman/ · **Portfolio:** https://artiebowman.com · **Term project:** [GVSU-CIS641-PersonaSync](https://github.com/artiebowman/GVSU-CIS641-PersonaSync)
 
 - Building [PersonaSync™](https://personasync.dev), a portable context layer so your persona and goals travel with you across AI tools instead of being re-explained every time you switch
-- Weekly Disney Lorcana player at my local game store; on the side I'm running an independent research project on trading-card valuation models
-- Interested in egocentric vision and wearable data collection, which is where my film/video background and my ML work overlap
+- Weekly [Disney Lorcana](https://www.disneylorcana.com) player at my local game store; on the side I'm running an [independent research project](https://artiebowman.com/research) on trading-card valuation models
+- Most interested in computer vision: how machines see, and what useful things get built once they can. After ten years behind a camera it is the part of AI that feels like home
 - Evening reader of manhua and manhwa
 
 ## Technical Background
