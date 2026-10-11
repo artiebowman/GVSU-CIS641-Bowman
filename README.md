@@ -1,5 +1,7 @@
 # Arthur (Artie) Bowman
 
+**Course page:** https://artiebowman.github.io/GVSU-CIS641-Bowman/ · **Portfolio:** https://artiebowman.com · **Term project:** [GVSU-CIS641-PersonaSync](https://github.com/artiebowman/GVSU-CIS641-PersonaSync)
+
 - Building [PersonaSync™](https://personasync.dev), a portable context layer so your persona and goals travel with you across AI tools instead of being re-explained every time you switch
 - Weekly Disney Lorcana player at my local game store; on the side I'm running an independent research project on trading-card valuation models
 - Interested in egocentric vision and wearable data collection, which is where my film/video background and my ML work overlap
