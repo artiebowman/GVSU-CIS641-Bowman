@@ -1,6 +1,8 @@
 # Arthur (Artie) Bowman
 
-**Course page:** https://artiebowman.github.io/GVSU-CIS641-Bowman/ · **Portfolio:** https://artiebowman.com · **Term project:** [GVSU-CIS641-PersonaSync](https://github.com/artiebowman/GVSU-CIS641-PersonaSync)
+[![Course page](https://img.shields.io/badge/Course_page-artiebowman.github.io-0F766E?style=for-the-badge)](https://artiebowman.github.io/GVSU-CIS641-Bowman/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-artiebowman.com-0F766E?style=for-the-badge)](https://artiebowman.com)
+[![Term project](https://img.shields.io/badge/Term_project-GVSU--CIS641--PersonaSync-0F766E?style=for-the-badge)](https://github.com/artiebowman/GVSU-CIS641-PersonaSync)
 
 - Building [PersonaSync™](https://personasync.dev), a portable context layer so your persona and goals travel with you across AI tools instead of being re-explained every time you switch
 - Weekly [Disney Lorcana](https://www.disneylorcana.com) player at my local game store; on the side I'm running an [independent research project](https://artiebowman.com/research) on trading-card valuation models
