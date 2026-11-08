@@ -16,3 +16,7 @@ I came into computing sideways. My undergrad and about ten years of work were in
 Most of my programming is Python: PyTorch and scikit-learn for coursework and research, FastMCP for building Model Context Protocol tools, and Gradio/Hugging Face Spaces for demos. I've shipped a working web app for PersonaSync with a scoring engine and a set of MCP read tools, and I use git daily. I'm comfortable in the terminal, VS Code, and with AI-assisted development workflows. I'm currently picking up C# for AR/VR work in Unity.
 
 Favorite meme: [link](https://knowyourmeme.com/memes/he-man-sings-heyyeyaaeyaaaeyaeyaa)
+
+## License
+
+This repository is under the MIT License (see LICENSE). The license covers the course materials only and doesn't grant any rights to the PersonaSync™ name, logo or other brand assets.
